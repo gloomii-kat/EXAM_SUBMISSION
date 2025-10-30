@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameTitle.unity
+    guid: 1d58f7bb41a8ab144a657f316283d612
+  - enabled: 0
+    path: Assets/Scenes/LevelObjective.unity
+    guid: 0dc7bf3cb7f83a944bebe7346029d53b
+  - enabled: 0
+    path: Assets/Scenes/NewHouse.unity
+    guid: cf8e6a66d27a7d24d9c7c2c19c29ae13
+  - enabled: 0
+    path: Assets/Scenes/Sub2.unity
+    guid: e0a9ff02fccec3e479962cb45f8d5199
+  - enabled: 1
+    path: Assets/Scenes/kat's scene.unity
+    guid: 587c12100b15b95438328b3fde133ad7
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7b332ba23bb81f34ea8e0b26992fe1b3
+  - enabled: 1
+    path: Assets/Scenes/YouWin.unity
+    guid: aba41da3bd3657f4e9fe0d98da9ffc5a
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
